@@ -6,7 +6,7 @@ SQL/Data Infrastructure · Pattern Recognition · Data Cleansing · Parameter Sw
 
 ---
 
-![Target Metric Visualization](images/cmd.png)
+![Target Metric Visualization](images/cmd1.png)
 
 Statistical classification isolates structural patterns in unstructured source data.  
 Iterative curve fitting yields data-driven baseline and variance estimations.  
