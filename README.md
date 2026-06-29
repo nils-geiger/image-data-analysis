@@ -60,5 +60,5 @@ The analysis evaluated dataset behavior across four operational dimensions:
 
 ## Source
 
-Advanced Data Analysis & Experimental Lab Course (University of Heidelberg, 2006)  
+Advanced Data Analysis & Experimental Lab Course (University of Heidelberg)  
 Project Repository & Structural Dataset Archive
