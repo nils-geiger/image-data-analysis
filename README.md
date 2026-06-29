@@ -1,8 +1,8 @@
-# Multichannel Data Analysis
+# Multichannel Data Analysis & ETL Pipeline
 
 8,000+ tabular records processed  
 2 Data Channels · 25 Multi-Variable Reference Points · 8 Calibration Nodes  
-Linux · SQL/Data Infrastructure · Pattern Recognition · Data Cleansing · Parameter Sweeps  
+SQL/Data Infrastructure · Pattern Recognition · Data Cleansing · Parameter Sweeps · Linux  
 
 ---
 
@@ -39,7 +39,7 @@ Statistical metrics repeat consistently across independent validation runs.
 
 ## Data Preparation
 
-Tabular metrics were integrated and cleared of systemic bias per data frame.  
+Sales-equivalent signal metrics were integrated and cleared of systemic bias via SQL-structured views.  
 A master normalization matrix corrected local sensitivity variations.  
 Coordinate mapping was executed via 2D clustering algorithms.  
 
